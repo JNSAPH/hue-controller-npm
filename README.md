@@ -12,7 +12,7 @@
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
 </h3>
 
-I wanted to build an Application to controll my Hue Lamps from my PC and got fed up with there not being a good Package to help me build it. Building everything from scratch took forever and i want to save other people from having to do this. 
+This is the new and improved version of the deprecated [philips-hue-controller](https://www.npmjs.com/package/philips-hue-controller).
 
 
 # Features
