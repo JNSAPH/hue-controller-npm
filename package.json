@@ -1,7 +1,7 @@
 {
   "name": "hue-controller",
-  "version": "1.0.1",
-  "main": "lib/index.js",
+  "version": "1.0.4",
+  "main": "./lib/index.js",
   "types": "lib",
   "author": "aph",
   "homepage": "https://jnsaph.com",

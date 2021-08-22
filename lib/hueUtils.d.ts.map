@@ -1,0 +1,1 @@
+{"version":3,"file":"hueUtils.d.ts","sourceRoot":"","sources":["../src/hueUtils.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,QAAQ;IAClB,OAAO,CAAC,CAAC,EAAE,MAAM,EAAE,CAAC,EAAE,MAAM,EAAE,CAAC,EAAE,MAAM;;;;IAiBvC,UAAU,CAAC,CAAC,EAAE,MAAM,EAAE,CAAC,EAAE,MAAM,EAAE,CAAC,EAAE,MAAM;IASjD,OAAO,CAAC,YAAY;CAOvB"}

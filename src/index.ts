@@ -5,7 +5,7 @@ import HueUtils from './hueUtils';
 const hueUtils = new HueUtils();
 
 
-export class HueController {
+export default class HueController {
     config: { ip: string | String; key: string | String; };
 
     constructor(config: {
@@ -108,7 +108,7 @@ export class HueController {
      * Change state of a single lamp
      *
      * @param {number} lamp 
-     * @param {boolean} state
+     * @param {boolean} state true or false
      * @return {Promise} 
      * @memberof HueController
      */
@@ -149,7 +149,7 @@ export class HueController {
      * changeBrightness
      *
      * @param {number} lamp
-     * @param {number} brightness
+     * @param {number} brightness Value between 0 and 255
      * @return {Promise} 
      * @memberof HueController
      */
@@ -192,7 +192,7 @@ export class HueController {
      * changecolor
      *
      * @param {number} lamp
-     * @param {{ r: number, g: number, b: number }} color
+     * @param {{ r: number, g: number, b: number }} color R, G or B must be a value between 0 and 255
      * @return {Promise}  
      * @memberof HueController
      */
