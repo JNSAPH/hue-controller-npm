@@ -12,7 +12,7 @@
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
 </h3>
 
-This is the new and improved version of the deprecated [philips-hue-controller](https://www.npmjs.com/package/philips-hue-controller).
+This is the new and improved version of the deprecated [hue-controller](https://www.npmjs.com/package/hue-controller).
 
 
 # Features
